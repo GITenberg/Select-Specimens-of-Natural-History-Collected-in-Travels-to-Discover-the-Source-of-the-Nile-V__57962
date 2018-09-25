@@ -1,5 +1,8 @@
 _repo: Select-Specimens-of-Natural-History-Collected-in-Travels-to-Discover-the-Source-of-the-Nile-V__57962
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57962-h/images/cover.jpg
 creator:
   author:
     agent_name: Bruce, James
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47766
     wikipedia: https://en.wikipedia.org/wiki/James_Bruce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57962#Select-Specimens-of-Natural-History-Collected-in-Travels-to-Discover-the-Source-of-the-Nile-V_
 gutenberg_issued: '2018-09-24'
 gutenberg_type: Text
 identifiers:
